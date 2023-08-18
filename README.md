@@ -13,7 +13,7 @@ My name is Ademilua Adeola and I am a professional and efficient backend develop
 
 ## Others
 
-- 🔭 I’m currently working on <a href = 'https://github.com/de-ola/django_examprep_api'>Exam Assistant API</a>
+- 🔭 I’m currently working on <a href = 'https://github.com/AdemiluaAdeola/django_exam_assistant'>Exam Assistant API</a>
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on any website or software development projects
 - 📫 How to reach me: adeolaademilua57@gmail.com, <a href = 'https://wa.link/d2839l'>+2348143121522</a>
