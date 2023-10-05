@@ -7,6 +7,7 @@ My name is Ademilua Adeola and I am a professional and efficient backend develop
 - HTML
 - CSS
 - Python
+- JavaScript
 - Django web framework
 - Django rest framework
 - REST APIs
