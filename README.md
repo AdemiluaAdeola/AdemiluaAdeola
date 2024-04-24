@@ -17,4 +17,4 @@ My name is Ademilua Adeola and I am a professional and efficient backend develop
 - 🔭 I’m currently working on <a href = 'https://github.com/AdemiluaAdeola/django_bank_api'>Bank API</a> and I am in need of assistance
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on any website or software development projects
-- 📫 How to reach me: Email - adeolaademilua57@gmail.com, WhatsApp - <a href = 'https://wa.link/d2839l'>+2348143121522</a>
+- 📫 How to reach me: Email - adeolaademilua57@gmail.com, WhatsApp - <a href = 'https://wa.link/3nqq60'>+2348139506639</a>
