@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer with 3 years of 
 
 ## 🌍 Connect With Me
 
-- [Instagram](https://www.instagram.com/ademi_tobi/)
+- [Instagram](https://www.instagram.com/sgt_ghost_sama/)
 - [Email](mailto:adeolaademilua57@gmail.com)
 
 ---
