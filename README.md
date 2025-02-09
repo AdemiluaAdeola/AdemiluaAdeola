@@ -68,6 +68,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer with 3 years of 
 
 - [Instagram](https://www.instagram.com/sgt_ghost_sama/)
 - [Email](mailto:adeolaademilua57@gmail.com)
+- [Whatsapp](https://wa.link/7nl42u)
 
 ---
 
