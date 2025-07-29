@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I am a results-driven Python Backend Developer wit
 ## 💼 Work Experience
 
 ### 1. Lead Backend Developer
-Alphalearner – AI Study Platform — (Jul 2023 – Present)
+Alphalearner – AI Study Platform — (Nov 2024 – Present)
 Remote / Nigeria
 
 - Led backend development for Alphalearner, an AI-powered study assistant platform featuring dynamic quizzes, personalized content feeds, performance tracking, and smart topic summaries tailored to Nigerian students.
